@@ -75,7 +75,10 @@ PMCs offer a range of services, including:
    - This can include hiring and deploying individuals with military expertise or specialized skills.
    - Examples of personnel provided by PMCs include security personnel, military advisors, or technical experts.
 
-It is important to note that PMCs operate as private entities and are not part of any government's official military forces. They are hired by governments or organizations to supplement or support existing military capabilities. # Private Military Companies (PMCs)
+It is important to note that PMCs operate as private entities and are not part of any government's official military forces. They are hired by governments or organizations to supplement or support existing military capabilities. 
+
+# Private Military Companies (PMCs)
+
 Private Military Companies (PMCs) are private companies that provide military services to governments, organizations, or individuals. They play various roles in monitoring operations, demining, combat operations, and non-combat operations.
 
 ## Monitoring Roles
@@ -100,7 +103,9 @@ Private Military Companies (PMCs) are private companies that provide military se
 - PMCs can provide a range of services, including security, logistics, training, and advisory roles, both domestically and internationally.
 - Their involvement in military operations depends on the specific contracts and agreements they have with their clients.
 
-Note: The provided information is limited, and further details about the specific roles and responsibilities of PMCs in different contexts would be beneficial for a comprehensive understanding. # Private Military Companies (PMCs) and Private Security Companies (PSCs)
+Note: The provided information is limited, and further details about the specific roles and responsibilities of PMCs in different contexts would be beneficial for a comprehensive understanding. 
+
+# Private Military Companies (PMCs) and Private Security Companies (PSCs)
 
 ## Private Military Companies (PMCs)
 Private Military Companies (PMCs) in the United States primarily provide a range of services for the US Government. These services include logistics, equipment specification and testing, training, and strategic advice. While PMCs may also operate abroad, their international activities are usually a small part of their overall business.
@@ -120,7 +125,10 @@ When PSCs provide services overseas, they typically do so through a local subsid
 - PMCs' international operations are usually a small part of their business, while PSCs often operate extensively abroad.
 - PSCs may be required by governments in some countries for foreign investors to provide their own security, while PMCs primarily serve the US Government's needs.
 
-It is important to note that the information provided here is a summary of the main points about PMCs and PSCs. Further research and study may be required for a more comprehensive understanding of these topics. # Private Security Companies (PSCs) and Private Military Companies (PMCs)
+It is important to note that the information provided here is a summary of the main points about PMCs and PSCs. Further research and study may be required for a more comprehensive understanding of these topics. 
+
+# Private Security Companies (PSCs) and Private Military Companies (PMCs)
+
 Private Security Companies (PSCs) and Private Military Companies (PMCs) are organizations that provide security services and military-related activities. PSCs primarily focus on security services, while PMCs engage in a wider range of activities, including combat operations.
 
 ## PSCs and their activities
@@ -138,6 +146,7 @@ Private Security Companies (PSCs) and Private Military Companies (PMCs) are orga
 It is important to note that the distinction between PSCs and PMCs can sometimes be blurred, as some PSCs may engage in activities that are traditionally associated with PMCs.
 
 # Roles of PSCs and PMCs
+
 ## PSCs
 - Provide security services, such as guarding and protecting individuals, buildings, or assets.
 - Operate in both domestic and international markets.
@@ -149,7 +158,8 @@ It is important to note that the distinction between PSCs and PMCs can sometimes
 - Engage in a wider range of activities, including combat operations.
 - Provide military training, strategic advice, and logistical support to armed forces.
 - Participate in peacekeeping missions, humanitarian assistance, and disaster relief efforts.
-- Some PMCs # Private Military Companies and Mercenary Activity
+
+- # Private Military Companies and Mercenary Activity
 
 Private military companies (PMCs) and mercenaries are both involved in providing military services abroad. However, there is a lack of clear definitions for these terms, which makes it difficult to accurately assess the extent of their activities.
 
@@ -166,7 +176,10 @@ Private military companies (PMCs) and mercenaries are both involved in providing
 - Different sources may have different perspectives on the same activity.
 - This lack of reliable information makes it challenging to accurately assess the extent of private military company and mercenary activity.
 
-It is important to note that the provided information is limited and does not provide a comprehensive understanding of private military companies and mercenary activity. Further research and analysis are necessary to gain a more in-depth understanding of this topic. # Private Military Services
+It is important to note that the provided information is limited and does not provide a comprehensive understanding of private military companies and mercenary activity. Further research and analysis are necessary to gain a more in-depth understanding of this topic. 
+
+# Private Military Services
+
 Private military services refer to the use of private individuals or companies to provide military or security-related services. These services can range from combat operations to logistical support and training. It is difficult to accurately estimate the extent and impact of private military services due to their secretive nature.
 
 ## Examples of Private Military Services
@@ -201,7 +214,9 @@ Private military services refer to the use of private individuals or companies t
 - Haiti
 - Ghana
 - Suriname
-- Maldives # Mercenary/PMC Interventions in Africa since the 1950s
+- Maldives
+
+# Mercenary/PMC Interventions in Africa since the 1950s
 
 - The scale of these interventions varies, with some involving only a few traditional mercenaries and others involving large groups or companies.
 - The largest scale intervention by non-nationals is believed to be in Afghanistan, where forces fighting against the Russians and other Afghan groups included major foreign elements.
@@ -222,7 +237,9 @@ Private military services refer to the use of private individuals or companies t
    - More than half of the Taliban forces were estimated to be from outside Afghanistan.
    - Financial rewards likely played a significant role in attracting these individuals.
 
-Note: The provided information is limited, and further research may be required for a comprehensive understanding of mercenary/PMC interventions in Africa since the 1950s. # Mercenaries and their Role in Conflict
+Note: The provided information is limited, and further research may be required for a comprehensive understanding of mercenary/PMC interventions in Africa since the 1950s. 
+
+# Mercenaries and their Role in Conflict
 
 ## Introduction
 Mercenaries are individuals or groups of individuals who are hired to fight in a conflict on behalf of a party that is not their own. They are motivated by financial gain rather than loyalty to a particular cause or country.
