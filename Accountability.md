@@ -64,7 +64,8 @@ Sovereignty is another important aspect to consider when it comes to PMCs. Sover
 - The UN Rapporteur's report highlights the illegality and illegitimacy of mercenary activities.
 - Mercenary activities violate the right of peoples to self-determination and the sovereignty of states.
 - Governments should not recruit mercenaries or contract companies that do so.
-- PMCs challenge the # Mercenaries and Private Military Companies (PMCs)
+
+# Mercenaries and Private Military Companies (PMCs)
 
 ## Introduction
 - Mercenaries and PMCs are individuals or groups who are hired by governments or private entities to provide military services.
@@ -88,7 +89,9 @@ Sovereignty is another important aspect to consider when it comes to PMCs. Sover
 
 ## Conclusion
 - While the use of PMCs has evolved from the threat posed by mercenaries in the past, there are still concerns about their potential impact on legitimate governments.
-- It is important for governments to carefully consider the risks and implications of employing PMCs and ensure proper oversight and accountability to mitigate any potential threats. # Private Military Companies (PMCs)
+- It is important for governments to carefully consider the risks and implications of employing PMCs and ensure proper oversight and accountability to mitigate any potential threats.
+
+# Private Military Companies (PMCs)
 Private Military Companies (PMCs) are private organizations that provide military services to governments, corporations, and other entities. They are often hired to perform tasks such as security, training, and combat support. While there are concerns about the potential dangers of PMCs, it is unlikely that they would try to take over control of a country. This is because such actions would damage their reputation and reduce their prospects of obtaining business elsewhere.
 
 ## Perception of Monopoly on Violence
@@ -108,7 +111,9 @@ Due to the potential risks associated with PMCs, there is a need for regulation 
 - Transparency and accountability are crucial in the operations of PMCs to maintain public trust.
 
 ## Conclusion
-While there are concerns about the role and impact of PMCs, it is unlikely that they would try to take over control of a country. The monopoly on violence remains essential to the concept of a state, and relying on a foreign force for security goes against this principle. However, private or foreign control does not necessarily mean a loss of sovereignty, and regulation and oversight are important to ensure that PMCs operate within legal and ethical boundaries. # Threat to Sovereignty: Economic Exploitation
+While there are concerns about the role and impact of PMCs, it is unlikely that they would try to take over control of a country. The monopoly on violence remains essential to the concept of a state, and relying on a foreign force for security goes against this principle. However, private or foreign control does not necessarily mean a loss of sovereignty, and regulation and oversight are important to ensure that PMCs operate within legal and ethical boundaries. 
+
+# Threat to Sovereignty: Economic Exploitation
 
 ## Introduction
 Economic exploitation can pose a threat to a country's sovereignty. This is particularly evident in countries in Africa that have abundant mineral resources. Some of these countries, such as Angola, Sierra Leone, and Zaire, have been associated with the use of mercenaries and private military companies (PMCs). 
@@ -122,7 +127,9 @@ Some commentators argue that it is problematic for governments to pay for securi
 ## Positive Side of PMC-Mineral Extraction Association
 On the other hand, some commentators have highlighted a positive aspect of the association between PMCs and mineral extraction. They argue that for PMCs, an interest in mineral extraction may be one of the few ways they can ensure payment for their services. Additionally, having a stake in mineral extraction can provide PMCs with a vested interest in maintaining stability and security in the region.
 
-In summary, economic exploitation can pose a threat to a country's sovereignty. In some cases, governments may resort to using mercenaries and PMCs to protect their mineral resources. While this approach may raise concerns about mortgaging the country's future, it can also be seen as a legitimate choice in the face of rebel threats. The association between PMCs and mineral extraction can have both negative and positive implications, with some commentators criticizing the reliance on mineral resources for security and others highlighting the potential benefits of such an association. # Private Military Companies (PMCs) and Vested Interest
+In summary, economic exploitation can pose a threat to a country's sovereignty. In some cases, governments may resort to using mercenaries and PMCs to protect their mineral resources. While this approach may raise concerns about mortgaging the country's future, it can also be seen as a legitimate choice in the face of rebel threats. The association between PMCs and mineral extraction can have both negative and positive implications, with some commentators criticizing the reliance on mineral resources for security and others highlighting the potential benefits of such an association. 
+
+# Private Military Companies (PMCs) and Vested Interest
 
 Private Military Companies (PMCs) are hired by various entities to deal with conflict situations. While some argue that PMCs have no interest in bringing conflict to an end, as they are paid to deal with conflict, others believe that PMCs can have a vested interest in peace and stability. 
 
@@ -144,7 +151,10 @@ Private Military Companies (PMCs) are hired by various entities to deal with con
 
 ## Conclusion
 
-While some argue that PMCs may have no interest in bringing conflict to an end, there are ways to align their interests with peace and stability. By including performance clauses in contracts, ensuring a secure operating environment, and promoting long-term partnerships, PMCs can be motivated to work towards resolving conflicts. However, challenges such as parties prolonging conflicts and the potential for PM # Private Military Companies (PMCs)
+While some argue that PMCs may have no interest in bringing conflict to an end, there are ways to align their interests with peace and stability. By including performance clauses in contracts, ensuring a secure operating environment, and promoting long-term partnerships, PMCs can be motivated to work towards resolving conflicts.
+
+# Private Military Companies (PMCs)
+
 Private Military Companies (PMCs) are private companies that provide military services to governments, organizations, or individuals. They are often hired to perform tasks that were traditionally carried out by national armed forces.
 
 ## Reputation and Business Prospects
@@ -163,7 +173,9 @@ Private Military Companies (PMCs) are private companies that provide military se
 - While there are concerns about human rights abuses by PMCs, it is important to consider the actions of all parties involved in a conflict.
 
 # Conclusion
-Private Military Companies (PMCs) play a significant role in providing military services to governments and organizations. It is important for PMCs to maintain a good reputation and adhere to ethical standards in order to secure future business. While there have been concerns about human rights abuses by PMCs, it is important to consider the actions of all parties involved in a conflict. # Human Rights and Private Military Companies (PMCs)
+Private Military Companies (PMCs) play a significant role in providing military services to governments and organizations. It is important for PMCs to maintain a good reputation and adhere to ethical standards in order to secure future business. While there have been concerns about human rights abuses by PMCs, it is important to consider the actions of all parties involved in a conflict. 
+
+# Human Rights and Private Military Companies (PMCs)
 
 ## Introduction
 Private Military Companies (PMCs) have been involved in various conflicts around the world, including Sierra Leone. There have been accusations of human rights abuses by PMCs, but it is important to determine whether these abuses are inherent to the nature of PMCs or if they are isolated incidents.
@@ -184,7 +196,9 @@ Private Military Companies (PMCs) have been involved in various conflicts around
 - While there have been accusations of human rights abuses by PMCs, it is important to determine whether these abuses are inherent in the nature of PMCs or if they are isolated incidents.
 - National armies and UN peacekeeping forces have also been accused of human rights abuses.
 - The nature of PMCs may provide greater incentives for discipline compared to traditional mercenaries.
-- Further examination is needed to fully understand the relationship between PMCs and human rights. # Private Military Companies and Human Rights Violations
+- Further examination is needed to fully understand the relationship between PMCs and human rights.
+
+# Private Military Companies and Human Rights Violations
 
 Private military companies (PMCs) have been the subject of criticism due to their involvement in human rights violations. One such company is Executive Outcomes (EO), which faced allegations of misconduct in Angola. However, it is believed that EO decided to improve its behavior in Sierra Leone to avoid negative consequences for its business. Mr. Van der Berg, the former Chief Executive of EO, stated that human rights violations would be the fastest way to drive the company out of business.
 
@@ -208,6 +222,3 @@ Private military companies are often seen as a potential solution to conflict-re
 
 The presence of a private military company, such as EO, may create an illusion of governability. This means that although the company provides security services, it does not address the substantive problems that contribute to conflict. As a result, the conflict persists, and the company's role becomes limited to providing a temporary sense of security.
 
-## Exaggerated Strategic Impact
-
-Some argue that the strategic impact of private military companies like EO is often exaggerated. These companies may not have the capacity to effectively address the complex issues of conflict. Therefore, relying solely on their
