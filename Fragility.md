@@ -26,7 +26,9 @@ To achieve long-term security, it is important to go beyond coercive means and a
 - Addressing the underlying political and socio-economic issues is crucial for long-term security.
 - Creating inclusive and pluralistic politics is a difficult but necessary challenge.
 - Long-term security requires tackling the root causes of conflicts.
-- Over-re # Private Military Companies (PMCs)
+
+# Private Military Companies (PMCs)
+
 Private Military Companies (PMCs) are private companies that provide military services to governments, organizations, or individuals. They are often hired to perform tasks that were traditionally carried out by the military, such as security, training, and logistics support.
 
 ## Impact on Stability
@@ -42,7 +44,10 @@ There is often an accusation that PMCs act as proxies for governments. While thi
 - MPRI as an instrument of US policy: MPRI, a PMC, has been accused of functioning as an instrument of US policy in the Balkans. The fact that MPRI's actions align with US Government policy is evident from the State Department's issuance of licenses.
 - Assumptions without evidence: Many commentators assume a link between governments and PMCs or mercenaries, often without substantial evidence. Even when governments deny any covert link, commentators may still assume its existence.
 
-It is important to note that these are general observations and may not apply to all PMCs or situations. The role and impact of PMCs can vary depending on the specific context and circumstances. # Private Military Companies (PMCs)
+It is important to note that these are general observations and may not apply to all PMCs or situations. The role and impact of PMCs can vary depending on the specific context and circumstances. 
+
+# Private Military Companies (PMCs)
+
 Private Military Companies (PMCs) are organizations that provide military services to governments and other clients. They often employ former members of the armed services, which can lead to conspiracy theories.
 
 ## Transparency and Regulation
@@ -54,16 +59,6 @@ Private Military Companies (PMCs) are organizations that provide military servic
 - The idea of professional military competence without a primary loyalty to the community makes people uneasy.
 - Encouraging such activity goes against our values and the way society is ordered.
 - In a democracy, it is natural for the state to be defended by its own citizens.
-
-# Main Topic
-## Subtopic 1
-paragraph...
-paragraph...
-- Point 1
-## Subtopic 2
-... # Private Military Companies (PMCs)
-
-Private Military Companies (PMCs) are private organizations that provide military services for a fee. They are often hired by governments or other entities to carry out military operations or provide security services. However, the use of PMCs is a controversial topic, with arguments both for and against their existence.
 
 ## Arguments in favor of PMCs
 
@@ -83,7 +78,10 @@ Private Military Companies (PMCs) are private organizations that provide militar
 
 - **Lack of international regulation**: There is currently a lack of comprehensive international regulation governing the activities of PMCs. This can make it difficult to hold them accountable for any wrongdoing and ensure that they adhere to ethical standards.
 
-- **Negative perception**: The use of PMCs can create a negative perception of the state or entity that hires them. It can be seen as a sign of weakness or an inability to handle security issues internally, which can damage reputation and relationships with other # Human Rights Violations and Private Military Companies (PMCs)
+- **Negative perception**: The use of PMCs can create a negative perception of the state or entity that hires them. It can be seen as a sign of weakness or an inability to handle security issues internally, which can damage reputation and relationships with other
+
+# Human Rights Violations and Private Military Companies (PMCs)
+
 ## Violations by National Armies
 - In Sierra Leone, the national army was undisciplined, violent, and posed a threat to the civilian population.
 - Some Nigerian forces operating under ECOMOG have also been accused of similar behavior.
@@ -117,7 +115,9 @@ Private Military Companies (PMCs) are private organizations that provide militar
 # Conclusion
 - Human rights violations by national armies have been observed in some cases, but there is no evidence of such violations in the record of Executive Outcome, a PMC.
 - PMCs and PSCs are often employed by the UN and other international organizations for logistics and security support in international operations.
-- They play an ancillary role, providing specialized services to enhance the effectiveness and safety of the mission. # Private Military Companies and the United Nations
+- They play an ancillary role, providing specialized services to enhance the effectiveness and safety of the mission.
+
+# Private Military Companies and the United Nations
 
 Private military companies (PMCs) are private companies that provide military services to governments, international organizations, and other clients. They are often hired to perform security and military tasks that traditional armed forces may not be able or willing to undertake. The United Nations (UN) is one organization that has considered employing PMCs for certain roles.
 
@@ -139,7 +139,9 @@ The Secretary General of the UN, Kofi Annan, has acknowledged the potential use 
 
 ## Conclusion
 
-While the idea of employing PMCs in wider roles for the UN may be controversial, it is worth examining this option. The UN already relies on contributions from countries that may have financial motivations for participating in peacekeeping missions. Exploring the use of PMCs could potentially address some of the challenges faced by the UN in maintaining peace and security in various regions of the world. However, it is important to carefully consider the implications and potential consequences of such a decision. # Private Companies in Peacekeeping Operations
+While the idea of employing PMCs in wider roles for the UN may be controversial, it is worth examining this option. The UN already relies on contributions from countries that may have financial motivations for participating in peacekeeping missions. Exploring the use of PMCs could potentially address some of the challenges faced by the UN in maintaining peace and security in various regions of the world. However, it is important to carefully consider the implications and potential consequences of such a decision. 
+
+# Private Companies in Peacekeeping Operations
 
 Private companies have the potential to play a role in peacekeeping operations for the United Nations (UN). Currently, the UN faces challenges in recruiting forces for these operations. However, holding providing states accountable can be difficult due to the UN's status as a sovereign state. By involving private companies, the UN could potentially enforce higher standards on behavior, human rights, and efficiency in carrying out tasks.
 
@@ -157,7 +159,9 @@ Private companies have the potential to play a role in peacekeeping operations f
 
 The United States has already utilized private companies in peacekeeping operations. DynCorp and subsequently Pacific A&E were employed by the US to recruit and manage monitors in the Balkans. This example demonstrates that private companies can be successfully involved in peacekeeping efforts.
 
-In conclusion, involving private companies in UN peacekeeping operations could bring several benefits. These include higher standards, cost-effectiveness, quicker availability of forces, and increased willingness to participate. The United States' use of private companies in the Balkans serves as an example of how this approach can be effective. # Mercenary Forces and Government Contractors
+In conclusion, involving private companies in UN peacekeeping operations could bring several benefits. These include higher standards, cost-effectiveness, quicker availability of forces, and increased willingness to participate. The United States' use of private companies in the Balkans serves as an example of how this approach can be effective. 
+
+# Mercenary Forces and Government Contractors
 
 ## Introduction
 - Mercenary forces are hired soldiers who work for a profit.
@@ -179,7 +183,10 @@ In conclusion, involving private companies in UN peacekeeping operations could b
 - Despite the potential benefits, there is currently not much political support for the idea of governments contracting PMCs to the UN or other international bodies.
 
 ## Scope for Government Action
-- While governments have expressed disapproval of mercenaries, there is no effective legislation in place to address their activities. # Foreign Enlistment Act of 1870
+- While governments have expressed disapproval of mercenaries, there is no effective legislation in place to address their activities.
+
+# Foreign Enlistment Act of 1870
+
 The Foreign Enlistment Act of 1870 is a law in the United Kingdom that prohibits British subjects from enlisting in the armed forces of a foreign state that is at war with another foreign state at peace with the UK. It also prohibits recruiting individuals for such service within the UK. However, there have been no prosecutions under this act related to enlistment or recruitment. The Director of Public Prosecutions considered prosecuting individuals for enlisting in the Spanish Civil War but abandoned the idea due to the difficulty of gathering evidence for activities taking place abroad. It is also uncertain whether the act would cover internal conflicts, such as those in Africa today. The Diplock Committee, after examining the issue, concluded that the act is ineffective and should be repealed or replaced.
 
 - The Foreign Enlistment Act of 1870 prohibits British subjects from enlisting in the armed forces of a foreign state at war with another foreign state at peace with the UK.
@@ -189,7 +196,9 @@ The Foreign Enlistment Act of 1870 is a law in the United Kingdom that prohibits
 - It is uncertain whether the act would cover internal conflicts, such as those in Africa today.
 - The Diplock Committee concluded that the act is ineffective and should be repealed or replaced.
 
-Note: The original text contains some spelling errors, which have been corrected in the notes. # The 1870 Act and the Paradox
+Note: The original text contains some spelling errors, which have been corrected in the notes. 
+
+# The 1870 Act and the Paradox
 The 1870 Act is a law that is paradoxical because if every country were to adopt a similar law, it would make the recruiting activities of the British Government in Nepal and other countries illegal.
 
 # The Case for Regulation
