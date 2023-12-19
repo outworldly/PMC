@@ -17,7 +17,9 @@
 
 ## Spain
 - Spain does not have any legislation or regulation in place to prevent private citizens from working abroad as mercenaries.
-- However, the Code of Military Law does make it a punishable offense for serving members of the military to engage in mercenary activities. # Mercenary Laws in Different Countries
+- However, the Code of Military Law does make it a punishable offense for serving members of the military to engage in mercenary activities.
+
+# Mercenary Laws in Different Countries
 
 ## Introduction
 Mercenaries are individuals who are hired to fight in armed conflicts by a foreign country or non-state actor. While some countries have specific laws and regulations regarding mercenaries, others do not. In this set of notes, we will explore the laws related to mercenaries in three different countries: Spain, Sweden, and Switzerland.
@@ -42,7 +44,9 @@ Mercenaries are individuals who are hired to fight in armed conflicts by a forei
 ## Conclusion
 - The laws regarding mercenaries vary from country to country.
 - While Spain does not have specific legislation on mercenaries, Sweden and Switzerland have provisions in their penal codes that address certain aspects of mercenary activities.
-- It is important for individuals to be aware of the laws in their respective countries and the potential legal consequences of engaging in mercenary activities. # Mercenary Activities and Legislation
+- It is important for individuals to be aware of the laws in their respective countries and the potential legal consequences of engaging in mercenary activities.
+
+# Mercenary Activities and Legislation
 
 ## Introduction
 Mercenary activities refer to individuals who are hired to fight in armed conflicts in foreign countries. These individuals are not part of the official military forces of their own country. In many countries, engaging in mercenary activities is considered illegal and can result in severe penalties.
@@ -89,7 +93,9 @@ Regulation of PMCs, PSCs, and mercenaries is being considered due to several rea
 
 However, it is important to note that the administrative burden and the number of affected companies cannot be accurately predicted at this stage.
 
-Regulating these activities would have both administrative and financial implications for the government and the companies involved. # Impact of Imposing Controls on the Private Sector
+Regulating these activities would have both administrative and financial implications for the government and the companies involved. 
+
+# Impact of Imposing Controls on the Private Sector
 
 ## Difficulties in Estimating the Impact
 - Both the government and industry face challenges in accurately estimating the impact of imposing controls.
@@ -192,7 +198,9 @@ It is important to carefully consider the potential impact and effectiveness of 
 # Conclusion
 - An outright ban on the provision of all military services and recruitment for military activity abroad would have significant economic and operational implications.
 - It would result in the loss of contracts for British defence exporters and potential financial costs to individuals.
-- The defence industrial base could also be negatively affected, impacting the overall defence capability of the country. # Censoring Regime for Military Services
+- The defence industrial base could also be negatively affected, impacting the overall defence capability of the country.
+
+# Censoring Regime for Military Services
 
 ## Regulatory Impact
 The regulatory impact of implementing new controls for military and security services abroad would require companies to obtain a license for these contracts and maintain records for inspection. This would ensure compliance with the regulations. 
@@ -206,7 +214,9 @@ The regulatory impact of implementing new controls for military and security ser
 - Implementing a licensing regime would require significant staff resources and IT investment for the government.
 - It may also increase the workload for those operating the existing export licensing system.
 
-Note: It is too early to estimate the specific impact of these regulations. # Export Control Bill - Estimated Costs
+Note: It is too early to estimate the specific impact of these regulations. 
+
+# Export Control Bill - Estimated Costs
 
 The Export Control Bill proposes the implementation of controls on the export of certain goods. While the exact details and scope of these controls are yet to be determined, it is important to consider the potential costs associated with processing licenses and ensuring compliance. 
 
