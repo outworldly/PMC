@@ -9,3 +9,6 @@
 - [Licensing For Security Services & Export](Licensing.md)
 - [US Arms Export Control Act: Military Services & Regulations](US.md)
 - [Regulation Of Mercenary Activities In Europe](Europe.md)
+
+
+Based On 2002 British Gov Documents
