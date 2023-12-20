@@ -1,4 +1,4 @@
-# A guide to Private Military Companies (PMCs)
+# Regulation Of Private Military Companies (PMCs)
 ## Topics
 - [Regulating Private Military Companies](Regulating.md)
 - [Foreign Mercenaries & Volunteer Soldiers](Foreign.md)
