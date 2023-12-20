@@ -16,39 +16,6 @@ It is important to consider the countries of origin of these companies. The lite
 
 Overall, PMSCs play a role in providing military and security services to various clients, including governments, rebel groups, and private companies operating in high-risk areas. 
 
-# Private Military Companies (PMCs)
-
-- PMCs are private companies that provide military services to governments, organizations, or individuals.
-- Some prominent countries with PMCs include China (CA), the United Kingdom (UK), and Israel.
-- The number of major combat operations undertaken by PMCs is limited, as is the number of companies willing to engage directly in combat and operational support.
-- Analysts have focused on the activities of Executive Outcomes in Angola and Sierra Leone, but these were exceptional operations and it is uncertain if similar operations will be repeated.
-- However, there are some indications that both the supply and demand for PMCs may grow.
-
-## Executive Outcomes in Angola
-- Mercenaries have played a part in the Angolan conflict on several occasions.
-- British and American mercenaries fought for the FNLA in 1975/6.
-- The MPLA had support from exiled Katangese gendarmes and later from Cuban forces.
-- These Cuban forces were not considered mercenaries because they were paid by the Cuban Government.
-
-# Key Points about PMCs
-- PMCs are private companies that provide military services.
-- The number of major combat operations undertaken by PMCs is limited.
-- Executive Outcomes in Angola and Sierra Leone were exceptional operations.
-- The supply and demand for PMCs may grow in the future.
-
-# Private Military Companies (PMCs)
-- PMCs are private companies that provide military services to governments, organizations, or individuals.
-- Some prominent countries with PMCs include China (CA), the United Kingdom (UK), and Israel.
-- The number of major combat operations undertaken by PMCs is limited, as is the number of companies willing to engage directly in combat and operational support.
-- Analysts have focused on the activities of Executive Outcomes in Angola and Sierra Leone, but these were exceptional operations and it is uncertain if similar operations will be repeated.
-- However, there are some indications that both the supply and demand for PMCs may grow.
-
-## Executive Outcomes in Angola
-- Mercenaries have played a part in the Angolan conflict on several occasions.
-- British and American mercenaries fought for the FNLA in 1975/6.
-- The MPLA had support from exiled Katangese gendarmes and later from Cuban forces.
-- These Cuban forces were not considered mercenaries because they were paid by the Cuban Government.
-
 # Angola's Civil War and the Role of Executive Outcomes
 
 ## Background
@@ -80,21 +47,9 @@ Overall, PMSCs play a role in providing military and security services to variou
 - These factors include the competition for control over Angola's valuable natural resources, such as diamonds and oil.
 - The availability of resources allowed the Angolan government to hire and sustain the services of private military companies like Executive Outcomes.
 
-Overall, Executive Outcomes played a crucial role in the Angolan Civil War, assisting the government forces in achieving significant victories and ultimately contributing to the signing of a peace agreement. Despite their small numbers, their involvement had a significant 
-
 # Private Military Companies (PMCs) and the Cold War
 
 Private Military Companies (PMCs) emerged as a result of the Cold War and the reduction in the size of armed forces in the West and former Warsaw Pact countries. This created a pool of professional soldiers seeking employment opportunities. While it is difficult to determine the exact significance of this factor, it is evident that ex-servicemen from Central Europe and Ukraine have been operating as mercenaries in Africa. 
-
-## Factors contributing to the growth of PMCs in South Africa
-
-- Common language, training, and combat experience among PMC members
-- African-based PMCs had valuable local knowledge, especially in Angola
-- Concerns about the long-term sustainability of PMCs due to financial limitations
-- Assembling a force quickly from diverse elements may result in lower effectiveness
-- The growth of PMCs may be influenced by unique events such as the end of the Cold War and the change of regime in South Africa
-
-It is important to note that these are just the student's notes and may not cover all aspects of the topic. Further research and study are recommended for a comprehensive understanding of PMCs in South Africa. 
 
 # Outsourcing Defense Functions
 - The British Government has been outsourcing certain defense functions for a number of years.
@@ -108,11 +63,6 @@ It is important to note that these are just the student's notes and may not cove
 - They may replace companies like Executive Outcomes in terms of prominence and market presence. # Private Military Companies (PMCs)
 Private Military Companies (PMCs) are private companies that provide military services and expertise to governments and other clients. They can offer a range of services, including training, advisory, and combat support.
 
-## Role of PMCs
-- PMCs often employ specialist instructors, such as ex-military personnel, who provide training to military forces.
-- They also offer facility management services, which involve managing and maintaining military facilities.
-- PMCs can provide training packages to meet government-to-government requests, meaning they can assist in training the military forces of other countries.
-
 ## Commercial Opportunities Abroad
 - Companies that provide training or other services for the UK Armed Forces are increasingly seeking commercial opportunities abroad.
 - This means that PMCs are expanding their operations beyond their home country and offering their services to foreign governments and clients.
@@ -124,29 +74,3 @@ Private Military Companies (PMCs) are private companies that provide military se
 - In the absence of intervention by the United Nations (UN) or regional organizations, governments may be tempted to seek assistance from PMCs.
 - PMCs can provide advice and training to governments facing internal instability or other challenges.
 - While PMCs may not directly engage in combat, they can play a role in supporting military operations.
-
-It is important to note that these notes are based on the provided information and do not include any additional information. 
-
-
-## Growth in Demand for PMCs
-
-- The trend towards outsourcing military and security services is expected to continue.
-- Governments that lack the resources or expertise to perform certain functions themselves may rely on PMCs.
-- Multilateral institutions and NGOs may also increase their demand for PMC services.
-
-## Potential Tasks for PMCs
-
-- PMCs may focus on tasks such as logistics, maintenance, and training.
-- Involvement in combat operations is expected to be relatively rare.
-
-## Future Outlook
-
-- Predictions about the future growth of the PMC market are speculative.
-- Continued growth in the demand for PMC services is likely, especially if the trend towards outsourcing continues.
-- PMCs may work for both the private sector and governments.
-- The focus of PMCs is expected to be on non-combat tasks, with combat operations being a rarity. # Mercenaries and Private Military Companies
-
-## Conclusion
-- The debate on the usefulness and dangers of private military companies continues.
-- Stricter regulation and accountability are needed to address the concerns raised by critics.
-- The effectiveness and cost of private military companies should also be carefully considered when deciding whether to employ them.
