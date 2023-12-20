@@ -38,9 +38,7 @@ Training covered by the Act includes:
 # Federal Criminal Statute
 - US citizens are prohibited from enlisting or recruiting others from within the US to serve a foreign government or a party involved in a conflict with a foreign government that the US is at peace with.
 
-# South African Regulation of Foreign Military Assistance Act (DMA)
-- The DMA came into force in September 1998 in South Africa.
-- It will become fully effective once enabling legislation is passed into law. # The Foreign Military Assistance (FMA) Act in South Africa
+# The Foreign Military Assistance (FMA) Act in South Africa
 
 The FMA Act was passed to address the issues of mercenaries and private military companies (PMCs) in South Africa. Before the FMA Act, only members of the South African National Defence Force (SANDF) were prohibited from engaging in mercenary activities.
 
@@ -52,10 +50,6 @@ The FMA Act prohibits any person, whether in South Africa or elsewhere, from rec
 
 The FMA Act does not prohibit foreign military assistance but rather regulates it. Requests to supply foreign military assistance and all related arms materials are scrutinized by the National Conventional Arms Control Committee (NCACC). The NCACC is chaired by a Minister from the government.
 
-## Inspiration for the FMA Act
-
-The government's decision to pass the FMA Act was mainly inspired by the controversy surrounding the activities of South Africa's PMCs. The best-known PMC in South Africa at the time was Executive Outcomes.
-
 ## Key Points:
 
 - The FMA Act addresses the issues of mercenaries and PMCs in South Africa.
@@ -65,17 +59,13 @@ The government's decision to pass the FMA Act was mainly inspired by the controv
 - The NCACC scrutinizes requests for foreign military assistance and related arms materials.
 - The FMA Act was inspired by the controversy surrounding South Africa's PMCs, particularly Executive Outcomes. # Mercenaries and the Defence Industry
 
-## Introduction
-- Mercenaries are individuals who are hired to fight in armed conflicts by parties other than their own country's armed forces.
-- The defence industry refers to companies and organizations involved in the production and sale of military equipment and services.
-
 ## Relationship between Mercenaries and the Defence Industry
 - The defence industry does not have direct links with the recruitment or use of mercenaries.
 - The application of laws related to mercenaries depends on the existence of armed conflict.
 - The recipient of the services provided by mercenaries must be a party to the conflict.
 - If the recipient is a private company seeking protection services for non-conflict related concerns, the laws related to mercenaries would not apply.
 
-## National Laws and Regulations
+## Laws and Regulations
 
 ### South Africa
 - The South African Regulation of Foreign Military Assistance Act (RFMAA) regulates the provision of military assistance by South African citizens or residents to foreign countries.
@@ -91,7 +81,7 @@ The government's decision to pass the FMA Act was mainly inspired by the controv
 ## Conclusion
 - The defence industry and the recruitment and use of mercenaries are separate entities.
 - National laws and regulations exist to regulate and control the involvement of individuals and companies in the recruitment and use of mercenaries.
-- These laws aim to ensure compliance with international law principles, including human rights law, and to deter individuals from engaging in mercenary activities. # International Laws on Mercenaries and Private Military Companies
+- These laws aim to ensure compliance with international law principles, including human rights law, and to deter individuals from engaging in mercenary activities.
 
 ## Austria
 - The Austrian Criminal Code has sections that address the formation of military associations, building up of weapons stores, and threats to Austrian neutrality.
@@ -108,11 +98,6 @@ The government's decision to pass the FMA Act was mainly inspired by the controv
 - There have been no known prosecutions under this legislation in Canada.
 - Canada has no plans to become a party to the 1959 UN Convention.
 
-# Summary
-- Austria has laws against the formation of military associations, building up of weapons stores, and threats to Austrian neutrality, but no legal action has been taken against mercenaries or private military companies.
-- Belgium has legislation banning Belgians from participating in foreign armies, but the necessary Royal Decree to enforce this law has not been issued yet. Belgium is in the process of becoming a party to the 1989 UN Convention.
-- Canada has a law that prosecutes Canadians for enlisting in armies engaged in warfare against countries allied to Canada, but there have been no known prosecutions. Canada has no plans to become a party to the 1959 UN Convention. # Mercenaries and Private Military Companies in Denmark and France
-
 ## Denmark
 - Denmark does not have specific legislation to regulate mercenaries or private military companies.
 - However, it is illegal to recruit in Denmark for foreign war service, according to paragraph 128 of the Penal Code.
@@ -125,13 +110,7 @@ The government's decision to pass the FMA Act was mainly inspired by the controv
 - The Danish government does not plan to become a party to the 1989 UN Convention.
 
 ## France
-- The French government is actively considering the inclusion of regulations regarding mercenaries and private military companies in the Penal Code. # Measures to Deal with Criminal Activities Linked to Mercenaries
-
-## France
-- France has no plans to become a party to the 1989 UN Convention.
-- There is no specific legislation in Germany covering the activities of Private Military Companies (PMCs).
-- Individual German citizens may sign up as mercenaries or join organizations like the French Foreign Legion.
-- Germany has signed the 1989 UN Convention.
+- The French government is actively considering the inclusion of regulations regarding mercenaries and private military companies in the Penal Code.
 
 ## Finland
 - Chapter 16 Section 22 of the Finnish Penal Code punishes the recruitment of Finnish citizens to the armed forces of another state.
@@ -144,11 +123,6 @@ The government's decision to pass the FMA Act was mainly inspired by the controv
 - Germany has no legislation specifically covering the activities of PMCs.
 - Individual German citizens can become mercenaries or join organizations like the French Foreign Legion.
 - Germany has signed the 1989 UN Convention.
-
-# Conclusion
-- France has no plans to become a party to the 1989 UN Convention.
-- Finland has provisions in its Penal Code to punish the recruitment of Finnish citizens as mercenaries and crimes committed by Finnish citizens or residents abroad.
-- Germany has no specific legislation on PMCs but has signed the 1989 UN Convention. # Mercenary Legislation in Different Countries
 
 ## Greece
 - Recruitment of mercenaries in Greece is illegal.
@@ -165,21 +139,7 @@ The government's decision to pass the FMA Act was mainly inspired by the controv
 - There are no plans to introduce any legislation or become a party to the 1989 UN Convention.
 
 ## Netherlands
-- Since 1954, it has been illegal under Article 101 of the Dutch Criminal Code for Dutch nationals to enter military service for a nation with which the Netherlands is at war. # Regulation of Mercenaries in Different Countries
-
-## Netherlands
-
-- Article 101 of the Dutch Criminal Code prohibits Dutch nationals from participating in armed conflicts as mercenaries.
-- Violation of this article can result in a maximum of four years imprisonment or a maximum fine of Dfl 100,000 (£30,000).
-- Article 107a imposes the same punishments for participating in armed conflicts other than war, in which the Netherlands is involved in self-defense or to restore international peace and security.
-- Article 205 of the Criminal Code makes it an offense to recruit personnel for a foreign military service in the Netherlands.
-- Violation of Article 205 can result in a maximum of one year imprisonment or a maximum fine of Dfl 25,000 (£7,000).
-- No prosecutions have been made under these articles so far.
-- There are no current plans to expand this legislation or for the Netherlands to join the 1989 UN Convention.
-
-## New Zealand
-
-- New Zealand does not have specific legislation regarding the regulation or restriction of mercenaries. # Private Military Companies and Legislation in Different Countries
+- Since 1954, it has been illegal under Article 101 of the Dutch Criminal Code for Dutch nationals to enter military service for a nation with which the Netherlands is at war.
 
 ## New Zealand
 - New Zealand does not currently have legislation specifically addressing private military companies or their activities.
@@ -206,8 +166,3 @@ By having legislation in place, countries can:
 
 These measures are important to maintain peace and stability within a country and to ensure that military activities are carried out by authorized and accountable entities.
 
-It is worth noting that while New Zealand does not currently have legislation addressing private military companies, it is taking steps to ratify the 1989 UN Convention. This shows the country's commitment to international efforts in regulating and controlling the activities of private military companies.
-
-Similarly, Norway has specific provisions in its Civil Penal Code and additional acts to prevent unauthorized recruitment and participation in foreign military service. These measures demonstrate Norway's commitment to maintaining control over its military activities and preventing individuals from engaging in unauthorized military actions.
-
-Overall, the purpose of these acts and conventions is to establish legal frameworks that govern the activities of private military companies and individuals involved in foreign military service, ensuring that such activities are conducted within the boundaries of
