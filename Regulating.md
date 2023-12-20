@@ -105,12 +105,12 @@ It is important to carefully consider the potential benefits and concerns associ
 
 # Main Topic: Private Military Companies (PMCs)
 
-## Subtopic 1: Evolution of PMCs
+## Evolution of PMCs
 Private military activity in the past involved mercenaries involved in post-colonial or neo-colonial conflicts. Today, private military companies (PMCs) exist and operate in various capacities.
 - Some PMCs may still employ mercenaries, but there is a desire to distinguish between reputable and disreputable operators.
 - The purpose of a licensing regime is to encourage and support reputable PMCs while eliminating disreputable ones.
 
-## Subtopic 2: Purpose of the Green Paper
+## Purpose of the Green Paper
 The Green Paper does not propose a policy but aims to initiate a wide debate on the options regarding PMCs.
 - The paper presents various dimensions of the PMC question.
 - The goal is to encourage a constructive debate and welcome contributions from all perspectives.
