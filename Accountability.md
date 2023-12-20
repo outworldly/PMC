@@ -12,11 +12,7 @@ It is important to note that accountability can be more challenging in certain s
 - A weak government that relies on a PMC for its security may be in a poor position to hold the PMC accountable.
 - The theoretical proposition of accountability under international humanitarian law may not always be practical in reality.
 
-Overall, the level of accountability by PMCs can vary depending on the circumstances and the entities involved. # Private Military Companies (PMCs)
-Private Military Companies (PMCs) are private companies that provide military services to governments, organizations, or individuals. They are also known as private security companies or private military firms. PMCs can be contracted by Western governments, such as MPRI or DynCorp, to provide military support and services.
-
-## Accountability of PMCs
-The accountability of PMCs is an important aspect to consider. Some believe that regulation by respectable host governments is crucial for ensuring the accountability of PMCs. However, there are differing opinions on this matter. 
+Overall, the level of accountability by PMCs can vary depending on the circumstances and the entities involved. 
 
 ## Historical Perspective
 Historically, the use of mercenaries or hired soldiers was common. The term "soldier" comes from the word "Soltlc," which means "pay." Many commanders, including Alexander and Hannibal, employed mercenary forces. In Europe, mercenaries were preferred by commanders until the creation of national armies in the 19th century.
@@ -25,7 +21,9 @@ Historically, the use of mercenaries or hired soldiers was common. The term "sol
 Transparency is a key issue when it comes to holding PMCs accountable. It can be challenging to know what PMCs are doing when they operate in a war zone. Sandline International has proposed the idea of monitoring PMCs, which they argue should be funded by the International Community. Shearer has also supported this idea. However, it is unclear how practical this would be in a war zone.
 
 ## Sovereignty
-Sovereignty is another important aspect to consider when it comes to PMCs. Sovereignty refers to the authority and power of a government to govern its own territory. The presence of PMCs in a country can raise questions about the sovereignty of that country. # Private Military Companies (PMCs) and Sovereignty
+Sovereignty is another important aspect to consider when it comes to PMCs. Sovereignty refers to the authority and power of a government to govern its own territory. The presence of PMCs in a country can raise questions about the sovereignty of that country. 
+
+# Private Military Companies (PMCs) and Sovereignty
 
 - Commentators view PMCs as a threat to sovereignty.
 - The UN Rapporteur states that within the structure of the nation-state, it is unacceptable for any state to authorize mercenary activities.
@@ -67,10 +65,6 @@ Sovereignty is another important aspect to consider when it comes to PMCs. Sover
 
 # Mercenaries and Private Military Companies (PMCs)
 
-## Introduction
-- Mercenaries and PMCs are individuals or groups who are hired by governments or private entities to provide military services.
-- The use of mercenaries and PMCs raises concerns about their impact on the principles of the UN Charter and the self-determination of peoples.
-
 ## UN Charter and the Use of Power
 - Governments and PMCs should not use their power in a way that undermines the self-determination of peoples or jeopardizes the independence and sovereignty of a state.
 - The extreme view mentioned does not consider all the principles of the UN Charter, including the right of self-defense (Article 51).
@@ -90,9 +84,6 @@ Sovereignty is another important aspect to consider when it comes to PMCs. Sover
 ## Conclusion
 - While the use of PMCs has evolved from the threat posed by mercenaries in the past, there are still concerns about their potential impact on legitimate governments.
 - It is important for governments to carefully consider the risks and implications of employing PMCs and ensure proper oversight and accountability to mitigate any potential threats.
-
-# Private Military Companies (PMCs)
-Private Military Companies (PMCs) are private organizations that provide military services to governments, corporations, and other entities. They are often hired to perform tasks such as security, training, and combat support. While there are concerns about the potential dangers of PMCs, it is unlikely that they would try to take over control of a country. This is because such actions would damage their reputation and reduce their prospects of obtaining business elsewhere.
 
 ## Perception of Monopoly on Violence
 There is a perception that the monopoly on violence is essential to the concept of a state. This means that the state should have exclusive control over the use of force within its territory. The idea of a state relying on a foreign force for its security goes against this reasoning and our concept of citizenship.
@@ -153,10 +144,6 @@ Private Military Companies (PMCs) are hired by various entities to deal with con
 
 While some argue that PMCs may have no interest in bringing conflict to an end, there are ways to align their interests with peace and stability. By including performance clauses in contracts, ensuring a secure operating environment, and promoting long-term partnerships, PMCs can be motivated to work towards resolving conflicts.
 
-# Private Military Companies (PMCs)
-
-Private Military Companies (PMCs) are private companies that provide military services to governments, organizations, or individuals. They are often hired to perform tasks that were traditionally carried out by national armed forces.
-
 ## Reputation and Business Prospects
 - PMCs need to maintain a good reputation in order to attract clients and secure future business.
 - Engaging in unethical behavior or illegal activities can damage a PMC's reputation and harm its business prospects.
@@ -171,9 +158,6 @@ Private Military Companies (PMCs) are private companies that provide military se
 - Some PMCs have also been accused of using controversial weapons like cluster bombs and fuel air explosions.
 - However, it is important to note that these weapons have also been used by Western armed forces.
 - While there are concerns about human rights abuses by PMCs, it is important to consider the actions of all parties involved in a conflict.
-
-# Conclusion
-Private Military Companies (PMCs) play a significant role in providing military services to governments and organizations. It is important for PMCs to maintain a good reputation and adhere to ethical standards in order to secure future business. While there have been concerns about human rights abuses by PMCs, it is important to consider the actions of all parties involved in a conflict. 
 
 # Human Rights and Private Military Companies (PMCs)
 
