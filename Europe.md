@@ -18,14 +18,6 @@
 ## Spain
 - Spain does not have any legislation or regulation in place to prevent private citizens from working abroad as mercenaries.
 - However, the Code of Military Law does make it a punishable offense for serving members of the military to engage in mercenary activities.
-
-# Mercenary Laws in Different Countries
-
-## Introduction
-Mercenaries are individuals who are hired to fight in armed conflicts by a foreign country or non-state actor. While some countries have specific laws and regulations regarding mercenaries, others do not. In this set of notes, we will explore the laws related to mercenaries in three different countries: Spain, Sweden, and Switzerland.
-
-## Spain
-- Spain does not have any specific legislation regarding mercenaries.
 - There are no plans to introduce laws in this field or for Spain to become a party to the 1989 UN Convention.
 
 ## Sweden
