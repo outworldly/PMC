@@ -41,18 +41,6 @@ Mercenaries are individuals who are hired to fight in armed conflicts by a forei
 - However, Swiss nationals who join such forces may still face legal consequences under other provisions of Swiss law, such as participating in a criminal organization or committing war crimes.
 - Switzerland has not become a party to the 1989 UN Convention, which regulates the activities of mercenaries.
 
-## Conclusion
-- The laws regarding mercenaries vary from country to country.
-- While Spain does not have specific legislation on mercenaries, Sweden and Switzerland have provisions in their penal codes that address certain aspects of mercenary activities.
-- It is important for individuals to be aware of the laws in their respective countries and the potential legal consequences of engaging in mercenary activities.
-
-# Mercenary Activities and Legislation
-
-## Introduction
-Mercenary activities refer to individuals who are hired to fight in armed conflicts in foreign countries. These individuals are not part of the official military forces of their own country. In many countries, engaging in mercenary activities is considered illegal and can result in severe penalties.
-
-## Legislation in Different Countries
-
 ### United Kingdom
 - The United Kingdom has legislation in place to control and regulate private military companies operating within its jurisdiction.
 - The Foreign Enlistment Act of 1870 prohibits British citizens from enlisting in foreign armed forces without the permission of the British government.
@@ -62,11 +50,6 @@ Mercenary activities refer to individuals who are hired to fight in armed confli
 - The United States also has laws that regulate mercenary activities.
 - The Neutrality Act of 1794 prohibits US citizens from participating in foreign military activities without the approval of the US government.
 - The US government can prosecute individuals who violate this law.
-
-### Switzerland
-- Switzerland has a unique situation regarding mercenary activities.
-- The Swiss Constitution prohibits Swiss citizens from serving in foreign armed forces, except for the Vatican Swiss Guard.
-- Between 1994 and 2000, 17 individuals were sentenced for serving in foreign armed forces, such as the Foreign Legion.
 
 ### Ukraine
 - In Ukraine, mercenary activities are covered under Article 63 of the Ukrainian Criminal Code.
@@ -112,21 +95,15 @@ Regulating these activities would have both administrative and financial implica
 - PMCs often have few fixed assets or permanent employees, making it harder to hold them accountable.
 
 ## Benefits of Regulation
-- Regulation can help reduce the risk associated with the private sector's activities. # Private Sector Regulation and Britain's Interests Abroad
-
-The activities of private sector companies or individuals could potentially undermine Britain's policies and interests abroad. To address this concern, a regulatory system could be implemented to ensure that the private sector operates in a way that aligns with Britain's goals and values. While no regulatory system is foolproof, there is a good chance that it could be effective if the sector as a whole believes that it is in their best interests. Some companies in the industry might even welcome clearer guidelines.
-
-Benefits of Regulation:
 - Establishing a reputation for British companies in this sector as reliable and responsible partners.
 - Making it easier for British companies to win business, for example from international organizations.
 - Creating a fair and reasonable regulatory regime that is viewed positively by the industry.
 
-Consequences for Non-Compliance:
+## Consequences for Non-Compliance:
 - Companies that choose to place themselves outside the regulatory regime by going offshore would be putting themselves on the margins of the sector.
 - Their reputations would suffer accordingly.
 
-Options for Regulation:
-The options set out in the paper are:
+## Options for Regulation:
 
 1. Ban on Military Activity Abroad:
 - Prohibiting private sector companies or individuals from engaging in any military activities outside of Britain.
@@ -144,22 +121,6 @@ It is important to carefully consider the potential impact and effectiveness of 
 - PMCs/PSCs (Private Military Companies/Private Security Companies) may be required to register and notify relevant authorities.
 - This registration and notification process is a form of regulation for these companies.
 - It may involve providing information about their activities, personnel, and locations.
-
-# General License for PMCs/PSCs
-- There may be a general license available for PMCs/PSCs.
-- This license allows these companies to operate within certain parameters without needing specific approvals for each activity.
-- It provides a level of flexibility and ease of operation for these companies.
-
-# Self-Regulation: Voluntary Code of Conduct
-- PMCs/PSCs may choose to adopt a voluntary code of conduct for self-regulation.
-- This code of conduct outlines ethical standards and guidelines for their operations.
-- It is not mandatory but serves as a way for these companies to demonstrate their commitment to responsible practices.
-
-# Small Business Impact
-- Many PMCs/PSCs are small businesses with a limited number of permanent employees.
-- They often hire staff on a contract basis as needed.
-- A complete ban on military activity overseas could have a negative impact on these companies, potentially leading to their closure.
-- Any form of regulation, including registration and licensing, would have a cost impact on these small businesses.
 
 # Issues of Equity and Fairness
 - It is challenging to assess the impact of new controls on every business that may be affected.
@@ -179,27 +140,6 @@ It is important to carefully consider the potential impact and effectiveness of 
 - Significant losses in defence export sales could also have a negative impact on the defence industrial base.
 - This could be detrimental to the overall defence capability of the country.
 
-# Ban on Recruitment for Military Activity Abroad
-
-## Costs to Potential Recruits
-- A ban on recruitment for military activity abroad would incur costs to individuals who are potential recruits.
-- These individuals would be deprived of opportunities for employment in the military sector.
-- This could have financial implications for them.
-
-## Impact on Recruiting Companies
-- Recruiting companies would either cease to exist or move offshore if recruitment for military activity abroad is banned.
-- This would result in a loss of job opportunities and potential economic impact.
-
-## Challenges in Policing the Ban
-- Rigorous policing would be required to ensure that breaches of the ban are discovered.
-- However, this would be expensive, time-consuming, and unlikely to be cost-effective.
-- This is because recruitment activity for military activity abroad is typically small-scale.
-
-# Conclusion
-- An outright ban on the provision of all military services and recruitment for military activity abroad would have significant economic and operational implications.
-- It would result in the loss of contracts for British defence exporters and potential financial costs to individuals.
-- The defence industrial base could also be negatively affected, impacting the overall defence capability of the country.
-
 # Censoring Regime for Military Services
 
 ## Regulatory Impact
@@ -213,8 +153,6 @@ The regulatory impact of implementing new controls for military and security ser
 ## Administrative Burden on Government
 - Implementing a licensing regime would require significant staff resources and IT investment for the government.
 - It may also increase the workload for those operating the existing export licensing system.
-
-Note: It is too early to estimate the specific impact of these regulations. 
 
 # Export Control Bill - Estimated Costs
 
@@ -240,4 +178,3 @@ The Export Control Bill proposes the implementation of controls on the export of
    - Agencies designated to ensure compliance and enforce the export controls would also incur costs.
    - The exact sum involved would depend on the extent of the licensing regime sought.
 
-It is important to note that these estimated costs are based on the scenario proposed for the Export Control Bill and may vary depending on the final scope and implementation of the controls.
